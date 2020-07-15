@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/savana"
-    tools:context=".Instructions">
+    tools:context=".Instructions"
+    android:id="@+id/instructionsPage">
 
     <Button
         android:id="@+id/menu"
@@ -28,7 +29,7 @@
         android:layout_marginTop="20dp"
         android:text="@string/full_instructions"
         android:textColor="#050505"
-        android:textSize="26dp"
+        android:textSize="26sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

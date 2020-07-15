@@ -1,28 +1,29 @@
 <resources>
     <string name="app_name">WhackAMole</string>
+    <string name="menu">Menu</string>
+    <string name="misses">Misses: </string>
+    <string name="start_game">Start Game</string>
+    <string name="time">Time: </string>
+    <string name="hits">Hits: </string>
+    <string name="full_instructions">Once you click on the button to start the game you get 30 seconds.
+    During this time moles will jump out of the holes, you need to smack the mole by tapping on it.
+    if you hit an empty hole or the mole get back to the hole it will count as a miss.
+    you can chose in settings different difficulties which will change the time loop. </string>
+    <string name="sound">Sound</string>
+    <string name="on">On</string>
+    <string name="mute">Mute</string>
+    <string name="background">Background</string>
+    <string name ="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="savana">Savana</string>
+    <string name="forest">Forest</string>
+    <string name="white">white</string>
     <string name="play">Play</string>
     <string name="high_score">High Score</string>
     <string name="instructions">Instructions</string>
-    <string name="setting">Setting</string>
-    <string name="menu">Menu</string>
-    <string name="difficulty">Difficulty</string>
-    <string name="background">BackGround</string>
-    <string name="sound">Sound</string>
-    <string name="normal">Normal</string>
-    <string name="mute">Mute</string>
-    <string name="on">On</string>
-    <string name="easy">Easy</string>
-    <string name="hard">Hard</string>
-    <string name="white">White</string>
-    <string name="gym">Gym</string>
-    <string name="savana">Savana</string>
-    <string name="start_game">Start Game</string>
-    <string name="full_instructions">
-        You need to hit the Mole when it pops up on your screen.\n
-        If you hit an empty space it will count as miss.\n
-        The amount of time the mole stays can be changed by the difficulty settings.\n
-    </string>
-    <string name="hits">Hits:</string>
-    <string name="time">Time:</string>
-    <string name="misses">Misses:</string>
+    <string name="setting">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="worlds_best_scores">World\'s Best Scores</string>
 </resources>

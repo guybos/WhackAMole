@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/savana"
-    tools:context=".MainScreen">
+    tools:context=".MainScreen"
+    android:id="@+id/mainPages">
 
     <Button
         android:id="@+id/game"
